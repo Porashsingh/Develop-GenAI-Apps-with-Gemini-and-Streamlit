@@ -1,5 +1,3 @@
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Develop%20GenAI%20Apps%20with%20Gemini%20and%20Streamlit%20Challenge%20Lab/gsp517.sh
+rm prompt-v1.0.0.ipynb
 
-sudo chmod +x *.sh
-
-./*.sh
+curl -LO https://raw.githubusercontent.com/Porashsingh/Develop-GenAI-Apps-with-Gemini-and-Streamlit/refs/heads/main/prompt-v1.0.0.ipynb
